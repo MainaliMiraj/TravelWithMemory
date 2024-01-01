@@ -35,6 +35,54 @@
         "lng": 13.376933665713324
       },
       "id": 98443197
+    },
+    {
+      "cityName": "Sydney",
+      "country": "Australia",
+      "emoji": "🇦🇺",
+      "date": "2024-01-01T13:39:07.797Z",
+      "notes": "nice place to live here.",
+      "position": {
+        "lat": "-33.82502312545619",
+        "lng": "150.8387660980225"
+      },
+      "id": 98443198
+    },
+    {
+      "cityName": "Sydney",
+      "country": "Australia",
+      "emoji": "🇦🇺",
+      "date": "2024-01-01T13:41:24.381Z",
+      "notes": "Good park for a good time.",
+      "position": {
+        "lat": "-33.80341555416384",
+        "lng": "150.7980823516846"
+      },
+      "id": 98443199
+    },
+    {
+      "cityName": "Arta",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-01-01T13:44:36.509Z",
+      "notes": "very good place",
+      "position": {
+        "lat": "39.690302055554845",
+        "lng": "3.355961611107739"
+      },
+      "id": 98443200
+    },
+    {
+      "cityName": "Alcudia",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-01-01T13:46:41.100Z",
+      "notes": "very cold",
+      "position": {
+        "lat": "39.847500297738776",
+        "lng": "3.1190872192382817"
+      },
+      "id": 98443201
     }
   ]
 }
