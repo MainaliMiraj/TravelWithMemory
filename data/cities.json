@@ -1,40 +1,16 @@
 {
   "cities": [
     {
-      "cityName": "Castello de la Plana",
+      "cityName": "Borriol",
       "country": "Spain",
       "emoji": "🇪🇸",
-      "date": "2024-01-01T22:06:02.421Z",
-      "notes": "good",
+      "date": "2024-01-11T10:37:59.612Z",
+      "notes": "hello",
       "position": {
-        "lat": "40.02378084963316",
-        "lng": "-0.03544807434082032"
+        "lat": "40.035485037386515",
+        "lng": "-0.09192466735839845"
       },
       "id": 1
-    },
-    {
-      "cityName": "Godawari",
-      "country": "Nepal",
-      "emoji": "🇳🇵",
-      "date": "2024-01-01T22:06:25.761Z",
-      "notes": "Good place for visit foods are the best and very cultural",
-      "position": {
-        "lat": "27.591328262902486",
-        "lng": "85.352783203125"
-      },
-      "id": 2
-    },
-    {
-      "cityName": "Primrose Valley",
-      "country": "Australia",
-      "emoji": "🇦🇺",
-      "date": "2024-01-01T22:07:36.328Z",
-      "notes": "Good place to travel in your vacation.",
-      "position": {
-        "lat": "-35.48075770357435",
-        "lng": "149.39208984375003"
-      },
-      "id": 3
     }
   ]
 }
